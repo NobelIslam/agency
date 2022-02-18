@@ -3,6 +3,14 @@ html {
   font-size: 62.5%;
   height: 100%;
 }
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
 .header-top {
   background: #fec01f;
   padding: 0.5rem 0;
