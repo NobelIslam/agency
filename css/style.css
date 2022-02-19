@@ -683,21 +683,13 @@ a.quote_btn:hover {
 }
 .slider-area .slider-content > h1 {
   margin-bottom: 1.6rem;
-
   font-style: normal;
-
   font-weight: 700;
-
-  font-size: 8rem;
-
+  font-size: 7rem;
   line-height: 9.5rem;
-
   text-align: center;
-
   text-transform: capitalize;
-
   color: #fff !important;
-
   margin-bottom: 2.5rem;
 }
 .slider-area .slider-content h1 span {
@@ -744,6 +736,7 @@ a.quote_btn:hover {
 .slider-area .slider-button .btn-left {
   background: rgba(255, 193, 32, 0.3) !important;
   border-color: rgba(255, 193, 32, 0.3) !important;
+  margin-bottom: 18px;
 }
 .slider-area .slider-button .btn-left .slider-btn1 {
   font-size: 1.6rem;
@@ -775,7 +768,7 @@ a.quote_btn:hover {
   padding: 0.7rem 3rem;
 }
 .slider-area .slider-button .btn-right {
-  margin-right: 22px;
+  margin-right: 40px;
   border: 0.8rem solid rgba(255, 193, 32, 0.3);
   border-radius: 5rem;
   -webkit-transition: all 0.3s ease-in-out;
